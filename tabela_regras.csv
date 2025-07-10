@@ -1,0 +1,11 @@
+"rules","lift","count","support","confidence"
+"{{qtd_comodos_dormitorio_fam=2,cod_agua_canalizada_fam=1}} => {{cod_material_piso_fam=5}}",1.19090386177369,545263,0.226815080544992,0.570250224329678
+"{{qtd_comodos_dormitorio_fam=1,cod_material_piso_fam=5}} => {{cod_agua_canalizada_fam=1}}",1.16625804046434,403561,0.167870771939078,0.975857524574109
+"{{cod_agua_canalizada_fam=1}} => {{cod_material_piso_fam=5}}",1.15786725641892,1115253,0.46391594335769,0.554431036719865
+"{{cod_material_piso_fam=5}} => {{cod_agua_canalizada_fam=1}}",1.15786725641892,1115253,0.46391594335769,0.968836599989923
+"{{qtd_comodos_dormitorio_fam=2,cod_material_piso_fam=5}} => {{cod_agua_canalizada_fam=1}}",1.15683913270543,545263,0.226815080544992,0.967976325310402
+"{{qtd_comodos_dormitorio_fam=1,cod_agua_canalizada_fam=1}} => {{cod_material_piso_fam=5}}",1.08931067764163,403561,0.167870771939078,0.521603530082345
+"{{qtd_comodos_dormitorio_fam=2}} => {{cod_material_piso_fam=5}}",1.08127959362782,563302,0.234318830548112,0.517757940520091
+"{{qtd_comodos_dormitorio_fam=3}} => {{cod_agua_canalizada_fam=1}}",1.05062768884284,249133,0.103632781724444,0.879104709344587
+"{{qtd_comodos_dormitorio_fam=2}} => {{cod_agua_canalizada_fam=1}}",1.05035056771207,956182,0.397746587143583,0.878872830351004
+"{{qtd_comodos_dormitorio_fam=1}} => {{cod_agua_canalizada_fam=1}}",1.04697433860809,773693,0.321835958266188,0.876047796386398
